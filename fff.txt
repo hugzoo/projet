@@ -8,8 +8,24 @@ Bouffe du 'toto'
 totototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototototo
 =======
 titi 
+<<<<<<< HEAD
 tutu
+hala madrid y nada mas !
+hfgihfsgofso
+=======
+tutu 
 >>>>>>> 2a519a455b9a7fe789b3eb90f9d7ee7d97171ea4
 
 
+<<<<<<< HEAD
 wé la zone sisisi
+=======
+Je rajoute des "tutu"
+
+tutu tutu tutu tutu tutu tutu tutu tutu tutu tutu
+
+J
+Ji
+Jim
+>>>>>>> faa0ade99c2a8f5c68ba59d024edbee0a7ae5395
+>>>>>>> 5bde8a7cacebf4a6f68ef38469813125ed9c94c1
